@@ -1,0 +1,12 @@
+.logo {
+    display: flex;
+    margin-left: 0.8rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo-img {
+    margin-right: 0.5rem;
+}
+
