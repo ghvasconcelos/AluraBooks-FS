@@ -1,0 +1,24 @@
+.opcoes-div {
+    display: flex;
+}
+
+.opcoes {
+    display: flex;
+}
+
+.opcao {
+    min-width: 100px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+}
+
+
+li {
+    list-style: none;
+}
